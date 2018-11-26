@@ -4,6 +4,10 @@ public class Homework8 {
 	 * variables. A Homework8 object should have an array that
 	 * holds n int values
 	 */
+
+	/* You need to declare an instance variable
+	 * to hold the array.
+	 */
 	public Homework8(int n) {
 		int[] arr = new int[n];
 	}
